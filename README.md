@@ -1,6 +1,6 @@
 # Second_Step_RoboRacer-Configuring-the-VESC-and-Hokuyo-10LX-Ethernet-Connection-Setup
 
-# 1. Configuring the VESC
+# 1. Configuring the VESC 
 
 **Important Safety Tips**
 
